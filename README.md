@@ -1,4 +1,4 @@
 # High-stakes
 Universal, customizable tenting system
-![First-Pic](01.jpg)
-![Second-Pic](02.jpg)
+![First-Pic](images/01.jpg)
+![Second-Pic](images/02.jpg)
